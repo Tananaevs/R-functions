@@ -1,1 +1,2 @@
-# R-functions - Building Blocks for R functions
+# R-functions
+Building Blocks for R functions
