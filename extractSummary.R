@@ -1,5 +1,6 @@
 # Thic code extracts hydrological summary from a set of binary files in a single directory
 # containing Hydrograph model-ready data
+#USE: xxx <- extractSummary(03042)
 
 extractSummary <- function (folder) {                               ##folder: Folder name, partial match allowed
 
